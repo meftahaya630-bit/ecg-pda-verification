@@ -19,7 +19,7 @@ This repository contains our computational theory course project analyzing exper
 
 ## Research Paper
 
-Our full research paper is available in `docs/paper.pdf`:
+Our full research paper is available in `docs/paper1.pdf`:
 
 *"Hierarchical Verification Patterns in Expert ECG Interpretation: A Pushdown Automata Framework for Detecting Incomplete Diagnostic Workflows"*
 
